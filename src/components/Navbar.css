@@ -1,0 +1,6 @@
+.nav-link {
+    cursor: pointer;
+  }
+  .badge.bg-light.text-dark.fs-4:hover {
+    transform: scale(1.05);
+  }
